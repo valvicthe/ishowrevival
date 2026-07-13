@@ -1,7 +1,7 @@
-# watrbx 2
+# ishowrevival
 roblox revival thats 2016
 
-# info
+# informaigtipns
 this is entirely written in php (at least as of right now)
 
 there's also a database migration system and whatnot
